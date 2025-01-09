@@ -39,6 +39,7 @@ p {
   padding: 4px 12px;
   margin: 0 0 2px 5px;
   border: none;
+  cursor: pointer;
 }
 
 .input-section {

@@ -108,7 +108,7 @@ function getRandomSurprisePrompt() {
   return surprisePrompts[randomIndex];
 }
 
-const surprise = getRandomSurprisePrompt();
+const surprise = getRandomSurprisePrompt;
 console.log(surprise);
 
 export default surprise;
